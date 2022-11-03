@@ -1,0 +1,9 @@
+com\synectiks\security\junit\controllers\FirstTests.class
+com\synectiks\search\service\entities\Student.class
+com\synectiks\security\testbase\TestBase.class
+com\synectiks\security\utils\TestUtils.class
+com\synectiks\security\junit\controllers\PermissionControllerTest.class
+com\synectiks\security\junit\controllers\RoleControllerTest.class
+com\synectiks\security\junit\controllers\SecTest2.class
+com\synectiks\security\junit\ex\OrganizationControllerTests.class
+com\synectiks\security\junit\controllers\TMTests.class
